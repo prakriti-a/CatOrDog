@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Cat Or Dog</string>
+    <string name="Ask">Cat or Dog?</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start PLAYER 1</string>
+
+</resources>
